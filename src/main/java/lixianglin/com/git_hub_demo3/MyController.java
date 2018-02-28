@@ -14,7 +14,7 @@ public class MyController {
 	@RequestMapping("hello")
 	@ResponseBody
 	public String say() {
-		return "hello world !";
+		return "hello world !hhhh";
 	}
 	 
 }
